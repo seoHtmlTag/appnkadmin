@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appnkadmin/static/css/main.6dc7775f.css",
+    "main.js": "/appnkadmin/static/js/main.173e338e.js",
+    "index.html": "/appnkadmin/index.html",
+    "main.6dc7775f.css.map": "/appnkadmin/static/css/main.6dc7775f.css.map",
+    "main.173e338e.js.map": "/appnkadmin/static/js/main.173e338e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc7775f.css",
+    "static/js/main.173e338e.js"
+  ]
+}
