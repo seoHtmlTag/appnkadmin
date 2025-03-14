@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/appnkadmin/static/css/main.e5dfb8c5.css",
-    "main.js": "/appnkadmin/static/js/main.094c2886.js",
+    "main.js": "/appnkadmin/static/js/main.9828ef67.js",
     "index.html": "/appnkadmin/index.html",
     "main.e5dfb8c5.css.map": "/appnkadmin/static/css/main.e5dfb8c5.css.map",
-    "main.094c2886.js.map": "/appnkadmin/static/js/main.094c2886.js.map"
+    "main.9828ef67.js.map": "/appnkadmin/static/js/main.9828ef67.js.map"
   },
   "entrypoints": [
     "static/css/main.e5dfb8c5.css",
-    "static/js/main.094c2886.js"
+    "static/js/main.9828ef67.js"
   ]
 }
