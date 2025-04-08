@@ -1,13 +1,14 @@
 {
-  "short_name": "APPNK",
-  "name": "APPNK",
+  "manifest_version": 3,
+  "short_name": "APPHBA",
+  "name": "APPHBA",
   "icons": [
-    { "src": "/appnkadmin/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "/appnkadmin/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "/appnkadmin/favicon.ico", "sizes": "32x32", "type": "image/x-icon" }
+    { "src": "/apphba/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/apphba/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apphba/favicon.ico", "sizes": "32x32", "type": "image/x-icon" }
   ],
   "start_url": ".",
-  "display": "browser",
+  "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
